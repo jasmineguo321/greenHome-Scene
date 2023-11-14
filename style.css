@@ -1,0 +1,82 @@
+.navbar-nav{
+    margin-left: 3%;
+}
+
+.pic img{
+    margin-top:2.2vh;
+    height: 60px;
+    width: 125px;
+    margin-left: 2vw;
+}
+
+.nav-item a{
+    margin-top:3.2vh;
+    margin-right:8px;
+    color: white;
+    opacity: 1;
+    font-size: 21px;
+    letter-spacing:.07cm;
+    font-family: 'Noto Sans JP', sans-serif;
+    word-spacing: 10cm;
+}
+
+.landing{
+    background-image: url(/img/bg2.avif);
+    margin:15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 96vh;
+}
+
+.landing .title{
+    font-size:11vh;
+    padding-top: 26vh;
+    line-height: 0.4cm;
+    font-weight: bolder;
+    font-family: 'Noto Sans Kawi', sans-serif;
+    color: white;
+    text-align: center;
+    text-decoration: overline;
+}
+
+.landing .subtitle {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Noto Sans JP', sans-serif;
+    line-height: 1cm;
+    font-size: 15px;
+    letter-spacing: 0.1cm;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom:0px;
+
+}
+
+.landing .learnMore {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top:0px;
+    padding-top:0px;
+}
+
+.landing .titletext{
+    color: white;
+    text-align: center;
+    font-family: 'Assistant', sans-serif;
+    padding-left: 24vw;
+    padding-top: 1vw;
+    padding-right: 24vw;
+    font-size: 2.3vh;
+    line-height: 0.7cm;
+    letter-spacing: 0.05cm;
+}
+
+.landing .subtitletext{
+    color: white;
+    text-align: center;
+    font-family: 'Assistant', sans-serif;
+    font-weight: bolder;
+    font-size: 3.4vh;
+}
